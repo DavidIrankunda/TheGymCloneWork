@@ -10,4 +10,4 @@ This project is a simple website clone created using only **HTML** and **CSS**.
 ---
 ## 🔗 Live Demo
 
-[Click here to view the live site](https://your-demo-link.com)
+[Click here to view the live site](https://davidirankunda.github.io/TheGymCloneWork/)
